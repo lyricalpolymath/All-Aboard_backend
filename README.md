@@ -1,3 +1,5 @@
+Read about the project: [All Aboard! Alliance for Mass Adoption of the Blockchain](https://medium.com/@lyricalpolymath/all-aboard-alliance-for-mass-adoption-of-the-blockchain-209bde271778)
+
 - Team name: ENTER CRYPTO / ALL ABOARD
 - Team members: @[lyricalpolymath](https://github.com/lyricalpolymath), @[Kyrrui](https://github.com/Kyrrui), @[epappas](https://github.com/epappas), @[ali2251](https://github.com/ali2251), @[amy-jung](https://github.com/amy-jung)
 (standing on the shoulders of giants): @[austintgriffith](https://github.com/austintgriffith) and more
